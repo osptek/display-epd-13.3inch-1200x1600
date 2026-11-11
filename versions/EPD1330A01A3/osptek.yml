@@ -1,0 +1,10 @@
+id: EPD1330A01A3
+category: displays
+size: "13.3"
+panel: epd
+resolution: 1200x1600
+interface: [spi, qspi]
+driver: PV61522x2+EK73601BAx1
+touch: null
+outline: 208.8 x 284.7 x 0.85 mm
+active_area: 202.8 x 270.4 mm
